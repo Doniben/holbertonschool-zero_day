@@ -1,16 +1,5 @@
 
-
-
-
 **MY FIRST README**
-
-
-
-
-
-
-
-
 
 This is a repository that conteins some exercises about emacs and vi commands. Below you will find listed the name of each exercise.
 
@@ -24,5 +13,5 @@ This is a repository that conteins some exercises about emacs and vi commands. B
 5-undoing
 6-quitting
 
-
-*VI**
+*VI*
+0
