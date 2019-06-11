@@ -8,10 +8,6 @@
 
 
 
-
-
-
-
 This is a repository that conteins some exercises about emacs and vi commands. Below you will find listed the name of each exercise.
 
 *EMACS*
@@ -26,3 +22,11 @@ This is a repository that conteins some exercises about emacs and vi commands. B
 
 
 *VI**
+
+1. Cutting
+2. Pasting
+3. Undoing
+4. Exiting
+5. Beginning of the line
+6. End of the line
+7. Line 32
